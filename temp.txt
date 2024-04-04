@@ -1,3 +1,7 @@
 asdasd
+<<<<<<< HEAD
 asdasd124
 4325dfg
+=======
+4214
+>>>>>>> new-feature
